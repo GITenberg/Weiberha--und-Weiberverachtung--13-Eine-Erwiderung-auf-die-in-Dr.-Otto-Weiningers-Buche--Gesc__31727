@@ -1,0 +1,35 @@
+_repo: Weiberha--und-Weiberverachtung--13-Eine-Erwiderung-auf-die-in-Dr.-Otto-Weiningers-Buche--Gesc__31727
+_version: 0.1.0
+alternative_title: "Weiberhass und Weiberverachtung\r\nEine Erwiderung auf die in\
+  \ Dr. Otto Weiningers Buche »Geschlecht und Charakter« geäusserten Anschauungen\
+  \ über »Die Frau und ihre Frage«"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meisel-Hess, Grete
+    birthdate: 1879
+    deathdate: 1922
+    gutenberg_agent_id: '35432'
+    url: http://www.gutenberg.org/2009/agents/35432
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31727'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Misogyny'
+- !lcsh 'Women -- Social conditions'
+- !lcc 'HQ'
+- !lcsh 'Weininger, Otto, 1880-1903. Geschlecht und Charakter'
+- !lcsh 'Sex role'
+title: "Weiberhaß und Weiberverachtung\r\nEine Erwiderung auf die in Dr. Otto Weiningers\
+  \ Buche »Geschlecht und Charakter« geäußerten Anschauungen über »Die Frau und ihre\
+  \ Frage«"
+url: http://www.gutenberg.org/ebooks/31727
