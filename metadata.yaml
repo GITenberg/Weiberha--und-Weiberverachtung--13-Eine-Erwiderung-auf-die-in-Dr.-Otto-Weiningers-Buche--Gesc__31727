@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35432'
     url: http://www.gutenberg.org/2009/agents/35432
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31727#Weiberha--und-Weiberverachtung--13-Eine-Erwiderung-auf-die-in-Dr.-Otto-Weiningers-Buche--Gesc_
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2010-03-21'
 gutenberg_type: Text
